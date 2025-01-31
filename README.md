@@ -58,4 +58,4 @@ ng build
 
 The build artifacts will be stored in the `dist/` directory.
 Contact
-For any questions, please contact [ichha2111@gmail.com](mailto:ashatanwar96@gmail.com).
+For any questions, please contact ashatanwar96@gmail.com.
